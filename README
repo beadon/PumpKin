@@ -122,8 +122,6 @@ The simplest way to build this package is:
   		$ cmake -DCMAKE_POLICY_VERSION_MINIMUM=3.5 .
 		$ make
 
-  See the binaries in the 
-
 To run simple examples provided with package type:
 		$ ./pumpkin Examples/ZDPlasKin/Input_10
 		$ ./pumpkin Examples/ZDPlasKin/Input_20
